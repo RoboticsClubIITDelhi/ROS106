@@ -21,16 +21,8 @@ It's our way of walking you through ROS2 basics — everything we know. By the e
 ## ⏱️ Duration & Schedule
 
 - **Kickoff**: 19th May 2025, online.
-- **Duration**: Just 8 weeks. That's it. Not a semester-long commitment. You'll survive.
+- **Duration**: Just 6 weeks. 
 - **Weekly Schedule**: 2 workshops per week, each around 2 hours max. 
-  - 1 session covering the week's material (similar to MOOC video lectures)
-  - 1 session for doubt-solving and hands-on help
-
-## 📝 Assignments & Rewards
-
-- Yes — take-home assignments.
-- Evaluated using a custom evaluator we'll share with you.
-- And don't even think about cheating — we made it. We know its secrets.
 
 ## 🔧 What will you build?
 
