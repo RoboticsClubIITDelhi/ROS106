@@ -1,0 +1,19 @@
+1.	Intro to OOPS
+    -	Classes
+    -	Objects
+    -	Inheritance
+    -	Encapsulation
+2.	Building a workspace
+    -	Mkdir _ws
+    -	Mkdir source
+    -	Ros2 create pkg pkg_name –build-type ament_python,    eg: my_pkg
+    -	colcon build (optional)
+3.	Publisher and Subscriber
+    -	Create a file in my_pkg/my_pkg
+    -	Code the publisher
+    -	Code the subscriber
+    -	Declare dependencies
+    -	Add entry points
+    -	Build both
+    -	Source the environment
+    -	Run both

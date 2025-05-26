@@ -1,0 +1,15 @@
+1. Introduction 
+    - What is ROS2
+    - Why we need ROS2
+    - When to use ROS2
+2. Setup
+    - [The construct](https://app.theconstruct.ai/login/)
+    - Create new rosject for ROS2 Humble
+3. Beginnning with ROS2
+    - Command Line Tool for ROS2
+    - What are Nodes
+    - How to run Nodes
+    - What are Topics
+    - How to introspect Nodes and Topics
+    - Using rqt_graph to visualise Nodes and Topics
+4. ROS2 Demo: Team IITD's Eyantra 2024-25 submission

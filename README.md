@@ -1,7 +1,7 @@
 # 🚀 ROS106: Introduction to Robot Operating System
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Enrollment%20Open-brightgreen" alt="Status: Enrollment Open">
+  <img src="https://img.shields.io/badge/Status-Enrollment%20Open-brightgreen" alt="Status: Ongoing">
   <img src="https://img.shields.io/badge/Team-Robotics%20Club-blue" alt="Team: Robotics Club">
   <img src="https://img.shields.io/badge/Duration-6%20Weeks-orange" alt="Duration: 6 Weeks">
 </div>
@@ -42,54 +42,46 @@ No real robots this time, but you'll get to build cool simulations that behave a
 - General introduction to Robotics
 - What is ROS2?
 - Installation and setup (yes, we'll help with those dependency nightmares)
-- ROS Architecture Overview
-- ROS Distributions Overview (ROS1 vs ROS2)
-
 - Development with ROS (C++/Python)
 - ROS2 CLI tools
 - Package Development
 - Workspace Management
 - ROS Message Types (because robots need to talk too)
-
-### Week 2: ROS2 Core Concepts I - Nodes, Topics & Services 
-
 - Intro to ROS2 programs - Nodes
+
+### Week 2: ROS2 Core Concepts - Nodes, Topics, Services & Launch Files 
+
 - Intro to ROS2 communication methods
 - Intro to Topics
-
 - Intro to Services
-- Working with Services
-- Difference between Services and Topics
 - Intro to Actions
-
-### Week 3: ROS2 Core Concepts II - Parameters and Launch Files
-
 - Parameters
 - Launch Files
 - Types of Launch files
-- Finishing up core concepts
 
-### Week 4: Robot Simulation 
+### Week 3: Robot Simulation 
 
+- Intro to TFs
+- Intro to URDF
 - Intro to Gazebo Simulator
 - Setting Up Gazebo Environment
 - Physics Engine
 - Integration of ROS and Gazebo
-
-- Intro to TFs
-- Intro to URDF
 - AruCo 
 
-### Week 5: Final Project I 
+### Week 4: Final Project I 
 
 - Inverse Kinematics of a Manipulator
 - UR5 Setup
 - PyMoveIt Setup
 
-### Week 6: Final Project II
+### Week 5: Final Project II
 
 - Pick n Drop Services
 - PID Algorithm & Optimisation
+
+### Week 6: Final Project III
+- Buffer
 - Finishing Up Project
 
 ## 🛠️ Technical Requirements

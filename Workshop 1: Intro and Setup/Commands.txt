@@ -1,0 +1,9 @@
+The following commands were used in the workshop(might not be in order):
+- ros2 run demo_nodes_py talker
+- ros2 run demo_nodes_py listener
+- ros2 topic list 
+- ros2 topic info /chatter
+- ros2 topic echo /chatter
+- rqt_graph
+- ros2 node list
+- ros2 node info /listener
