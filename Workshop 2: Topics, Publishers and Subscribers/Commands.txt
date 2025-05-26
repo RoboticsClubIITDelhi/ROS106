@@ -1,0 +1,8 @@
+The following commands were used in the workshop(might not be in order):
+- ros2 pkg create --build-type ament_python --license Apache-2.0 pack1        ##pack1 is the package name
+- pip install setuptools
+- rosdep install -i --from-path src --rosdistro humble -y                     ## run in ws folder shell
+- colcon build                                                                ## run in ws folder shell
+- source install/setup.bash                                                   ## run in ws folder shell
+- ros2 run pack1 talker                                                       ## talker is the executable name
+- ros2 run pack1 listener                                                     ## listener is the executable name
