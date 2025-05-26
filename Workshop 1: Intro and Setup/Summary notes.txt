@@ -3,7 +3,7 @@
     - Why we need ROS2
     - When to use ROS2
 2. Setup
-    - [The construct](https://app.theconstruct.ai/login/)
+    - Site used for course: The construct(https://app.theconstruct.ai/)
     - Create new rosject for ROS2 Humble
 3. Beginnning with ROS2
     - Command Line Tool for ROS2
