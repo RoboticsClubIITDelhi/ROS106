@@ -1,6 +1,6 @@
 The following commands were used in the workshop(might not be in order):
-- ros2 pkg create --build-type ament_python --license Apache-2.0 calc --dependencies rclpy example_interfaces  ## calc is the package name
 - ros2 pkg create --build-type ament_cmake --license Apache-2.0 customs                                        ## customs is the package name
+- ros2 pkg create --build-type ament_python --license Apache-2.0 calc --dependencies rclpy customs  ## calc is the package name
 - mkdir msg srv
 - colcon build --packages-select customs
 - source install/setup.bash
