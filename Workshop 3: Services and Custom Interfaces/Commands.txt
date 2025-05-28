@@ -1,0 +1,14 @@
+The following commands were used in the workshop(might not be in order):
+- ros2 pkg create --build-type ament_python --license Apache-2.0 calc --dependencies rclpy example_interfaces  ## calc is the package name
+- ros2 pkg create --build-type ament_cmake --license Apache-2.0 customs                                        ## customs is the package name
+- mkdir msg srv
+- colcon build --packages-select customs
+- source install/setup.bash
+- ros2 interface show customs/msg/Operation                                                                    ## Operation is the custom message name 
+- ros2 interface show customs/srv/Calc                                                                         ## Calc is the custom service interface name
+- rosdep install -i --from-path src --rosdistro humble -y
+- colcon build --packages-select calc
+- source install/setup.bash
+- ros2 run calc service                                                                                         ## service is the name of executable
+- ros2 run calc client "{o: {n1: 2, n2: 3, on: '+'}}"                                                           ## client is the name of executable
+- ros2 service list
