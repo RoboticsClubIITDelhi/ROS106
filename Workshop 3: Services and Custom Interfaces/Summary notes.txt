@@ -1,0 +1,13 @@
+1. Custom Interfaces
+    - Need for Interfaces
+    - How to code your custom Interfaces
+    - Build your custom Interfaces
+2. Services
+    - What are Services
+    - Why are they needed
+    - Coding a Server
+    - Coding a Client
+    - Building servers and clients
+3. Custom Services
+    - Creating your custom service interface
+    - Using your custom interfaces in services
