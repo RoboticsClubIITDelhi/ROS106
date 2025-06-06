@@ -4,5 +4,5 @@ The following commands were used in the workshop(might not be in order):
 - ros2 pkg create --build-type ament_python --license Apache-2.0 python_parameters --dependencies rclpy
 - ros2 pkg create --build-type ament_python --license Apache-2.0 launch_tutorial
 - mkdir launch_tutorial/launch
+- ros2 launch launch_tutorial example_substitutions.launch.py --show-args
 - ros2 launch launch_tutorial example_event_handlers.launch.py turtlesim_ns:='turtlesim3' use_provided_red:='True' new_background_r:=200
-

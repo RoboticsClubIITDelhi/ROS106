@@ -1,0 +1,10 @@
+1. Parameters
+    - What are Parameters
+    - How to use Parameters in a node 
+    - Using parameters to modify nodes at runtime
+2. Launch Files
+    - What are launch files
+    - How to write launch files
+    - Need for launch files
+    - Configuring nodes and setting paramters in launch files
+    - Setting timer for nodes in launch files
