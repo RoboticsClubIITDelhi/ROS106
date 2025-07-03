@@ -1,0 +1,14 @@
+# Create Package
+ros2 pkg create --build-type ament_python --license Apache-2.0 -- learning_tf2_py
+
+# Command to run static broadcaster
+ros2 run learning_tf2_py static_turtle_tf2_broadcaster mystaticturtle 0 0 1 0 0 0
+
+# Commands used in broadcaster tutorial
+ros2 launch learning_tf2_py turtle_tf2_demo.launch.py
+ros2 run turtlesim turtle_teleop_key
+ros2 run tf2_ros tf2_echo world turtle1
+
+# Commands used in listener tutorial
+ros2 launch learning_tf2_py turtle_tf2_demo.launch.py
+ros2 run turtlesim turtle_teleop_key
