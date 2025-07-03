@@ -1,0 +1,9 @@
+In this lecture, we covered the use and need of ArUco Markers in ROS.
+It is important to note that this might be a little difficult to understand for some people and hence can be skipped for now, when you feel more comfortable with ros2 consider revisiting this.
+
+Topics covered:
+    - What are ArUco Markers
+    - Why we need them
+    - How to generate ArUco Markers
+    - How to estimate pose using OpenCV
+    - Real World Use of ArUco Markers
