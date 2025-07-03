@@ -1,0 +1,6 @@
+In this lecture, we explored the TF2 library in ROS 2, which is essential for keeping track of multiple coordinate frames over time in robotic applications. The session was divided into three main components: static broadcaster, dynamic broadcaster, and listener, all implemented in Python.
+We began by understanding the purpose of TF2 — to maintain a tree of coordinate frames and allow transformations between them at any point in time.
+
+1. Static Transform Broadcaster was introduced first, where we published a fixed transform (e.g., from a robot base to a sensor frame). This is useful for parts of the robot that do not move relative to each other.
+2. We implemented a Transform Broadcaster that publishes dynamic transforms over time. This helped us simulate a moving frame, like a robot moving through space.
+3. We developed a Transform Listener, which subscribes to the transformation data and enables querying the position of one frame relative to another at a given time.
