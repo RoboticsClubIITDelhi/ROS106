@@ -1,0 +1,9 @@
+In this lecture, we covered the use and need of URDFs.
+
+Topics covered:
+    - What are URDFs
+    - Why we need them
+    - How to visualise your URDFs using Rviz
+    - What are Links and Joints
+    - How to write URDF from scratch
+    - Improving your URDFs with Xacro
